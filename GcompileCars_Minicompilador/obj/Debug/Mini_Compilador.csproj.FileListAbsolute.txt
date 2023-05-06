@@ -1,0 +1,52 @@
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csprojAssemblyReference.cache
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_compilador.principal.resources
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csproj.GenerateResource.cache
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Minicompilador.exe
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\obj\Debug\Minicompilador.pdb
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe.config
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe
+C:\Users\Josue\Desktop\cracks\Minicompilador\Minicompilador\bin\Debug\Minicompilador.pdb
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe.config
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\bin\Debug\Minicompilador.exe
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\bin\Debug\Minicompilador.pdb
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\obj\Debug\Minicompilador.exe
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\obj\Debug\Minicompilador.pdb
+C:\Users\Usuario\Documents\UMG\UMG\7mo Semestre\1. Compiladores\Tareas\Proyectos\Minicompilador\Minicompilador\Minicompilador\obj\Debug\Mini_Compilador.MiniCompilador.resources
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\bin\Debug\Minicompilador.exe.config
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\bin\Debug\Minicompilador.exe
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\bin\Debug\Minicompilador.pdb
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\obj\Debug\Mini_Compilador.csprojAssemblyReference.cache
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\obj\Debug\Mini_Compilador.MiniCompilador.resources
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\obj\Debug\Mini_Compilador.csproj.GenerateResource.cache
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\obj\Debug\Mini_Compilador.csproj.CoreCompileInputs.cache
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\obj\Debug\Minicompilador.exe
+C:\Users\MOORIS FLORIAN\source\repos\Minicompilador\obj\Debug\Minicompilador.pdb
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\bin\Debug\Minicompilador.exe.config
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\bin\Debug\Minicompilador.exe
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\bin\Debug\Minicompilador.pdb
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Mini_Compilador.csproj.AssemblyReference.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Mini_Compilador.csproj.SuggestedBindingRedirects.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Mini_Compilador.MiniCompilador.resources
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Mini_Compilador.csproj.GenerateResource.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Mini_Compilador.csproj.CoreCompileInputs.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Minicompilador.exe
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\Minicompilador\obj\Debug\Minicompilador.pdb
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\bin\Debug\Minicompilador.exe.config
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\bin\Debug\Minicompilador.exe
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\bin\Debug\Minicompilador.pdb
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Mini_Compilador.csproj.AssemblyReference.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Mini_Compilador.csproj.SuggestedBindingRedirects.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Mini_Compilador.MiniCompilador.resources
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Mini_Compilador.csproj.GenerateResource.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Mini_Compilador.csproj.CoreCompileInputs.cache
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Minicompilador.exe
+D:\backup dell\CURSOS UNIVERSIDAD XI\Compiladores\SEGUNDO PARCIAL\Proyecto Minicompilador GusStall\GcompileCars_Minicompilador\obj\Debug\Minicompilador.pdb
